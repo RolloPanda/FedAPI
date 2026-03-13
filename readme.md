@@ -1,6 +1,6 @@
 <h1 align="center"> FedAPI </h1>
 
-<h3 align-"center">
+<h3 align="center">
 Basic API under development, for soon Fed, a gaming startup focused on selling digital games
 </h3>
 

@@ -40,7 +40,7 @@ The first version of FedAPI focuses on the minimum backend services required to 
 
 
 
-Clone Repository
+<h3>Clone Repository </h3>
 
 ---
 
@@ -55,7 +55,7 @@ npm run dev
 
 
 
-ENV
+<h3>ENV </h3>
 
 ---
 
@@ -69,7 +69,7 @@ DB_USER=postgres
 DB_PASSWORD=password 
 JWT_SECRET=your_secret
 
----
+
 
 Project Status
 

@@ -16,12 +16,14 @@ The API will provide services that covers overall function of Fed, such as
 - user game library
 - etc
 
+
 ---
 
 <h3>Tech Stack</h3>
-this system using NodeJS, ExpressJS, and PostgreSQL
 
 ---
+this system using NodeJS, ExpressJS, and PostgreSQL
+
 
 <h3> MVP Scope </h3>
 The first version of FedAPI focuses on the minimum backend services required to operate a digital game store.

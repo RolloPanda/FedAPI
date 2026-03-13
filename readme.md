@@ -44,14 +44,14 @@ The first version of FedAPI focuses on the minimum backend services required to 
 
 ---
 
-- git clone https://github.com/RolloPanda/FedAPI
-cd FedAPI
+git clone https://github.com/RolloPanda/FedAPI <br>
+cd FedAPI <br>
 
-Install Depedencies
-npm install
+Install Depedencies <br>
+npm install <br>
 
-Run Development Server
-npm run dev
+Run Development Server <br>
+npm run dev <br>
 
 
 

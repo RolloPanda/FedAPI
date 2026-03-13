@@ -22,7 +22,7 @@ The API will provide services that covers overall function of Fed, such as
 <h3>Tech Stack</h3>
 
 ---
-this system using NodeJS, ExpressJS, and PostgreSQL
+this system using NodeJS, NestJS, and PostgreSQL
 
 
 <h3> MVP Scope </h3>

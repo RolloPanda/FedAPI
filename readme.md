@@ -44,7 +44,7 @@ The first version of FedAPI focuses on the minimum backend services required to 
 
 ---
 
-git clone https://github.com/RolloPanda/FedAPI
+- git clone https://github.com/RolloPanda/FedAPI
 cd FedAPI
 
 Install Depedencies
@@ -62,12 +62,12 @@ npm run dev
 Example of env
 Port = 5000
 
-DB_HOST=localhost 
-DB_PORT=5432 
-DB_NAME=fedapi 
-DB_USER=postgres 
-DB_PASSWORD=password 
-JWT_SECRET=your_secret
+DB_HOST=localhost <br>
+DB_PORT=5432 <br>
+DB_NAME=fedapi <br>
+DB_USER=postgres <br>
+DB_PASSWORD=password <br>
+JWT_SECRET=your_secret <br>
 
 
 

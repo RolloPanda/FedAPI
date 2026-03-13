@@ -26,6 +26,9 @@ this system using NodeJS, ExpressJS, and PostgreSQL
 
 
 <h3> MVP Scope </h3>
+
+---
+
 The first version of FedAPI focuses on the minimum backend services required to operate a digital game store.
 - Core modules planned for MVP:
 - Authentication
@@ -35,9 +38,12 @@ The first version of FedAPI focuses on the minimum backend services required to 
 - Order
 - Payment Authentication
 
----
+
 
 Clone Repository
+
+---
+
 git clone https://github.com/RolloPanda/FedAPI
 cd FedAPI
 
@@ -47,7 +53,7 @@ npm install
 Run Development Server
 npm run dev
 
----
+
 
 ENV
 
